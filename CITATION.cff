@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Se você utilizar este projeto, cite-o usando os metadados abaixo."
+title: "Métodos Estatísticos aplicados aos setores censitários de Foz do Iguaçu"
+type: software
+authors:
+  - family-names: "Queiroz"
+    given-names: "Gustavo Gonçalves"
+repository-code: "https://github.com/gusgonque/metodos-estatisticos-foz-2022"
+date-released: 2026-09-09
+license: MIT
