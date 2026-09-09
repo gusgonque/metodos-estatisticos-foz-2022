@@ -89,12 +89,6 @@ metodos-estatisticos-foz-2022/
 
 Python, pandas, NumPy, GeoPandas, Matplotlib, SciPy, Folium, Mapclassify e Google Colab.
 
-## Apresentação
-
-A apresentação da disciplina está disponível no Google Slides:
-
-[**T1 — Métodos Estatísticos Avançados**](https://docs.google.com/presentation/d/11tQ5geIOyCmdk--Q9YFV8YbS-bVEmCKl5afv4K2J24M/edit)
-
 ## Licença e dados
 
 O **código e o material autoral deste repositório** são disponibilizados sob a licença [MIT](LICENSE).
