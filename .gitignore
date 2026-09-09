@@ -1,0 +1,25 @@
+# Dados brutos
+/data/*.csv
+/data/*.gpkg
+/data/*.zip
+/data/*.xlsx
+!/data/README.md
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Saídas locais
+*.html
+
+# IDE / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
